@@ -1,0 +1,25 @@
+#form-contain{
+    margin-bottom: 20px;
+}
+.map-container {
+    width: 560px;
+    height: 450px;
+    border: none;
+    overflow: hidden;
+}
+
+#contact-form{
+    line-height: 50px;
+}
+
+form button{
+    margin-top: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: solid;
+    width: 130px;
+    height: 40px;
+    background-color: #C07122;
+    color: white;
+
+} 
